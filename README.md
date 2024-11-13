@@ -13,6 +13,5 @@ Par groupes de 3 :
   - Publier la branche sur le repo distant
 - Élève 3 :
   - Faire une modification dans le Readme.md
-  - Sauvegarder la modification dans l’historique
-  - Publier la branche sur le repo distant
-- Pour chacun des 3 : télécharger les deux autres branches de vos collaborateurs
+
+MODIFICATION RYAN j'AI TOUT EFFACER
